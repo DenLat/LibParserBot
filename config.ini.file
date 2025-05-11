@@ -1,0 +1,7 @@
+[site]
+url = URL
+search_query = SEARCH
+
+[telegram]
+token = TOKEN
+chat_id = ID
